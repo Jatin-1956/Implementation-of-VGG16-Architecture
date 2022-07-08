@@ -28,6 +28,14 @@ Model Training Loss     = 0.008 (Approximately)
 
 <img src = "output.png" width = "500px" title = "Output">
 
+## Team
+
+The project was made possible by the contributions of the members of the RJP Team consisting of:
+
+- [Rishav Verma](https://github.com/bunnyrishav-21)
+- [Jatin Motwani](https://github.com/Jatin-1956)
+- [Rampalli Pranav](https://www.linkedin.com/in/pranav-rampalli-610a3821b/)
+
 ## References
 
 - [Dataset Used](https://www.kaggle.com/competitions/digit-recognizer)
